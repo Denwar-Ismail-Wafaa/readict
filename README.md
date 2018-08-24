@@ -1,2 +1,2 @@
 # readict
-A pdf with offline dictionary
+A pdf with an offline dictionary
